@@ -52,6 +52,12 @@ python main.py <odkaz-uzemniho-celku> <vystupni-soubor.csv>
 
 ## Ukázka použití
 
+### Hlavní město Praha
+
+```bash
+python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=1&xnumnuts=1100" "vysledky_praha.csv"
+```
+
 ### Prostějov
 
 ```bash
