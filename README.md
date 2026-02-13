@@ -93,15 +93,6 @@ code,location,registered,envelopes,valid,...
 
 ---
 
-## Použité technologie
-
-- Python 3
-- requests
-- BeautifulSoup4
-- csv
-
----
-
 ## Autor
 
 Projekt vznikl v rámci Python Akademie od Engeta.
